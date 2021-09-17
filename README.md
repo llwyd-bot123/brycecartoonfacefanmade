@@ -1,4 +1,4 @@
-# brycesub
+# sample tailwind face cartoon
 
 ## Project setup
 ```
